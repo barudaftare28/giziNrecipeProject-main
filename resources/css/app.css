@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+p, a, hr {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
